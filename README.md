@@ -1,2 +1,5 @@
 # MTG
 マルチプレイのDemo
+
+MultiplayTest.uprojectを右クリックして「Generate VisualStudio ProjectFiles」を実行することで、slnファイルを作成することができます。
+slnファイルを実行するとVisualStudioが起動するので、そこからビルドして起動してください。
